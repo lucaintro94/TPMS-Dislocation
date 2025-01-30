@@ -3,8 +3,10 @@
 %  Authors: Luca D'Andrea and Pasquale Vena
 %  email: luca.dandrea@polimi.it
 %  Date: 05 November 2024
+%  Cite as: D'Andrea L., Yang T., Dao M., Vena P., Nature‑inspired 
+%  orientation‑dependent toughening mechanism for TPMS ceramic architectures
+%  MRS Bulletin 2025, doi:10.1557/s43577-024-00831-5
 % =========================================================================
-
 
 % Generate TMPS with edge dislocation
 
